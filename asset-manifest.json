@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/codelandia-2/static/css/main.b1d3dcfb.css",
+    "main.js": "/codelandia-2/static/js/main.3b901173.js",
+    "static/media/apresentation.jpg": "/codelandia-2/static/media/apresentation.711480fccf2617015ce6.jpg",
+    "index.html": "/codelandia-2/index.html",
+    "main.b1d3dcfb.css.map": "/codelandia-2/static/css/main.b1d3dcfb.css.map",
+    "main.3b901173.js.map": "/codelandia-2/static/js/main.3b901173.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d3dcfb.css",
+    "static/js/main.3b901173.js"
+  ]
+}
