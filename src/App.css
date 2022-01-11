@@ -12,4 +12,5 @@ body
   min-height: 100vh;
   position: relative;
   font-size: 62.5%;
+  background-color: #000;
 }
