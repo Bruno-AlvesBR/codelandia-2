@@ -1,1 +1,1 @@
-# Acesse o GH-PAGES do projeto: https://bruno-alvesbr.github.io/codelandia-1/
+# Acesse o GH-PAGES do projeto: https://bruno-alvesbr.github.io/codelandia-2/
