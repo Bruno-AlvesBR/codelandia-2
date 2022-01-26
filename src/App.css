@@ -14,3 +14,11 @@ body
   font-size: 62.5%;
   background-color: #000;
 }
+main 
+{
+  width: 100%;
+  max-width: 1550px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}

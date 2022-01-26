@@ -4,12 +4,9 @@ export const Content = styled.section`
     min-height: 650px;
 `;
 export const ContainerImage = styled.section`
-    width: 100%;
-    max-width: 1300px;
     min-height: 350px;
     max-height: 350px;
     display: flex;
-    margin: auto;
     position: relative;
     img 
     {
@@ -52,10 +49,7 @@ export const ContainerImage = styled.section`
     }
 `;
 export const ContainerCards = styled.section`
-    width: 100%;
-    max-width: 1300px;
     display: flex;
-    margin: auto;
     min-height: 650px;
     background-color: #fff;
     position: relative;
