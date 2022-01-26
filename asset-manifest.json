@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/codelandia-2/static/css/main.b1d3dcfb.css",
-    "main.js": "/codelandia-2/static/js/main.bdd24a07.js",
+    "main.css": "/codelandia-2/static/css/main.7c35d58f.css",
+    "main.js": "/codelandia-2/static/js/main.b16e08e3.js",
     "static/media/air-jordan-3.svg": "/codelandia-2/static/media/air-jordan-3.21666c615ea71a472a10.svg",
     "static/media/air-jordan-5.svg": "/codelandia-2/static/media/air-jordan-5.5981555eb1facedb4c9c.svg",
     "static/media/air-jordan-6.svg": "/codelandia-2/static/media/air-jordan-6.9b54ae26f74c289880f0.svg",
@@ -12,11 +12,11 @@
     "static/media/air-jordan-4.svg": "/codelandia-2/static/media/air-jordan-4.017a007e50db53b844c8.svg",
     "static/media/air-jordan-7.svg": "/codelandia-2/static/media/air-jordan-7.5961ddcebe0a5ae2edce.svg",
     "index.html": "/codelandia-2/index.html",
-    "main.b1d3dcfb.css.map": "/codelandia-2/static/css/main.b1d3dcfb.css.map",
-    "main.bdd24a07.js.map": "/codelandia-2/static/js/main.bdd24a07.js.map"
+    "main.7c35d58f.css.map": "/codelandia-2/static/css/main.7c35d58f.css.map",
+    "main.b16e08e3.js.map": "/codelandia-2/static/js/main.b16e08e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1d3dcfb.css",
-    "static/js/main.bdd24a07.js"
+    "static/css/main.7c35d58f.css",
+    "static/js/main.b16e08e3.js"
   ]
 }
