@@ -12,13 +12,11 @@ export default function App()
       <header>
         <Navbar />
       </header>
-
       <main>
         <Routes>
           <Route path="/codelandia-2/" element={<Home />} />
         </Routes>
       </main>
-
       <footer>
         <Footer />
       </footer>
