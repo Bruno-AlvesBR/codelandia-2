@@ -18,57 +18,6 @@ export default function Home()
         .catch(err => console.log(err))
     }, [])
 
-    const Jordans = [
-        {
-            "src": "air-jordan-1.svg"
-        },
-        {
-            "src": "air-jordan-2.svg"
-        },
-        {
-            "src": "air-jordan-3.svg"
-        },
-        {
-            "src": "air-jordan-4.svg"
-        },
-        {
-            "src": "air-jordan-5.svg"
-        },
-        {
-            "src": "air-jordan-6.svg"
-        },
-        {
-            "src": "air-jordan-7.svg"
-        },
-        {
-            "src": "air-jordan-8.svg"
-        },
-        {
-            "src": "air-jordan-1.svg"
-        },
-        {
-            "src": "air-jordan-2.svg"
-        },
-        {
-            "src": "air-jordan-3.svg"
-        },
-        {
-            "src": "air-jordan-4.svg"
-        },
-        {
-            "src": "air-jordan-5.svg"
-        },
-        {
-            "src": "air-jordan-6.svg"
-        },
-        {
-            "src": "air-jordan-7.svg"
-        },
-        {
-            "src": "air-jordan-8.svg"
-        }
-    ]
-
     return (
         <>
             <ContainerImage>
@@ -84,7 +33,7 @@ export default function Home()
                     <h1>Destaques</h1>
                     <p>Frete grátis e chinelo de brinde é aqui, aproveite por tempo limitado. </p>
                 </label>
-                {Jordans.map((item, key) =>
+                {data.map((item, key) =>
                 {
                     return(
                         <Card key={key}>
